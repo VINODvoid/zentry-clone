@@ -13,8 +13,6 @@ const App = () => {
       <Hero/>
       <About/>
       <Features/>
-
-
       <Story/>
       <Contact/>
       <Footer/>
